@@ -1,0 +1,28 @@
+{
+  "name": "websqlite",
+  "version": "1.0.0",
+  "description": "drag n drop a sqlite file to your browser",
+  "main": "app.js",
+  "scripts": {
+    "test": "fuck off"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pbrandt1/websqlite.git"
+  },
+  "keywords": [
+    "websql",
+    "sqlite",
+    "sql",
+    "database"
+  ],
+  "author": "Peter Brandt <peter.m.brandt@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pbrandt1/websqlite/issues"
+  },
+  "homepage": "https://github.com/pbrandt1/websqlite#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
